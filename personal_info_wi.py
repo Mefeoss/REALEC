@@ -1,2 +1,2 @@
-LOGIN_WI = 'your_login'
-PASSWORD_WI = 'your_password'
+LOGIN_WI = 'emma.feoktistova@yandex.ru'
+PASSWORD_WI = 'Choco2120'

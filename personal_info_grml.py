@@ -1,2 +1,2 @@
-LOGIN = 'your_login'
-PASSWORD = 'your_password'
+LOGIN = 'emma.feoktistova@yandex.ru'
+PASSWORD = 'Mefeoss2120!'
